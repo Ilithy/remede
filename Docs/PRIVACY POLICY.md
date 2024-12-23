@@ -28,7 +28,7 @@ All external interactions require user action (pressing a button at least) unles
 
 Note that Remède:
 
-* Relies on The "Wiktionnaire" Database and api (https://fr.m.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil) to retrieve information usable in order to perform the search and display definition of the word(s) searched by the user. Only if the user accepts it explicitly. directly on the user's device, For this purpose only. This service may store user information(s) and data(s) allowing identification. Please refer to the [wiktionary's privacy policy](https://foundation.m.wikimedia.org/wiki/Policy:Privacy_policy) for detailed information on how they handle user data.
+* Relies on The "Wiktionnaire" Database and api (https://fr.m.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil) to retrieve information in order to perform the search and display definition of the word(s) searched by the user. Only if the user accepts it explicitly. This service may store user information(s) and data(s) allowing identification. Please refer to the [wiktionary's privacy policy](https://foundation.m.wikimedia.org/wiki/Policy:Privacy_policy) for detailed information on how they handle user data.
 
 
 * Allows online database(s) downloading, upon user activation and is set for, relying on any external database service. Database(s) downloaded are stored and used locally on the user’s device. Optionally, this service(s) may store user information(s) and data(s) allowing identification. Please refer to the service's privacy policy for detailed information on how they handle user data.
